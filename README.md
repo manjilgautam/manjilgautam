@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+I'm a Cloud Engineer at Google, passionate about leveraging cutting-edge technologies to build scalable and secure cloud solutions.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <!--
 **manjilgautam/manjilgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a Cloud Engineer at Google, passionate about leveraging cutting-edge technologies to build scalable and secure cloud solutions.
+
 
 ...
 -->
